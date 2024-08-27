@@ -17,5 +17,9 @@ Distributed systems connect different network computers by passing messages and 
 
 **Client-Server Architecture** Are different nodes that communicate through message-passing (Invocations) in conjunction with a Server. Here the nodes send some request for the server to handle some complex actions and then send back the results
 
+**Peer-to-Peer** networks where nodes are interconnected with serveres
+
+Having more servers can increase resilience against failures. 
+
 ## Chapter 1 
 
