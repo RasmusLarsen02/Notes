@@ -78,4 +78,8 @@ You are on allowed to drop tables that contains references to other tables while
 **Data manipulation language (DML)** 
 
 
-	
+## Lecture 4 
+
+**Functions** can be made in sql to abstract functionality that has to be run may times into its own functions they are made with: 
+
+![[Pasted image 20240923123548.png]]
